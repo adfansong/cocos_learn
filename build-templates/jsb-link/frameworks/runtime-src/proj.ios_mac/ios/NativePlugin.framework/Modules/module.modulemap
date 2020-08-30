@@ -1,0 +1,6 @@
+framework module NativePlugin {
+  umbrella header "NativePlugin.h"
+
+  export *
+  module * { export * }
+}
